@@ -4,7 +4,8 @@
 
 An interactive OCR-based document parser built in **Google Colab** that allows users to upload scanned documents or image files, extract meaningful information using **EasyOCR**, generate AI-powered summaries, and export the results in **CSV** and **Excel** formats.
 
-[![Run in Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/drive/1O-XHj5nztUbcP9w5a93wklpl-RS_dt7O#)
+[![Run in Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/OCR-extractor.ipynb)
+
 
 ---
 
@@ -80,7 +81,7 @@ An interactive OCR-based document parser built in **Google Colab** that allows u
 
 ## 🔗 Open in Colab
 
-📎 [Click here to run in Google Colab](https://colab.research.google.com/drive/1O-XHj5nztUbcP9w5a93wklpl-RS_dt7O#)
+📎 [Click here to run in Google Colab][Open in Google Colab](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/OCR-extractor.ipynb)
 
 
 ---
